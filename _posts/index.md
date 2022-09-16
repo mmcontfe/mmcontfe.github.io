@@ -1,13 +1,13 @@
 ---
 title: "重庆之旅"
 excerpt: "重庆之旅"
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/static/IMG_3975.jpeg"
 date: "2021-03-13T05:35:07.322Z"
 author:
   name: Joe Haddad
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/static/IMG_3975.jpeg"
 ---
 
 # 重庆之旅

@@ -1,13 +1,13 @@
 ---
 title: "重学javascript"
 excerpt: "重学javascript"
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/static/javascript.jpeg"
 date: "2021-03-13T05:35:07.322Z"
 author:
   name: Joe Haddad
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/static/javascript.jpeg"
 ---
 
 # 重学 Javascript
