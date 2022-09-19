@@ -1,6 +1,6 @@
 ---
 title: "深拷贝和浅拷贝"
-excerpt: "深拷贝和浅拷贝"
+excerpt: "你不知道的深拷贝和浅拷贝"
 coverImage: "/assets/blog/static/深拷贝与浅拷贝.jpeg"
 date: "2022-09-10T13:35:07.322Z"
 author:
