@@ -10,9 +10,6 @@ ogImage:
   url: "/assets/blog/static/深拷贝与浅拷贝.jpeg"
 ---
 
-
-# 概念
-
 ## 基本数据类型
 
 - Number
